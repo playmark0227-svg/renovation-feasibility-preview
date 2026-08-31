@@ -1,6 +1,6 @@
 :HL["/renovation-feasibility-preview/_next/static/chunks/08m5-k98e5f_o.css","style"]
 :HL["/renovation-feasibility-preview/_next/static/chunks/0dbuua8_rto2w.css","style"]
-:HL["/renovation-feasibility-preview/_next/static/chunks/1mv5br0gxyp82.css","style"]
+:HL["/renovation-feasibility-preview/_next/static/chunks/3uwrg0gk05als.css","style"]
 :HL["/renovation-feasibility-preview/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/renovation-feasibility-preview/_next/static/media/ad9c66e761fed85a-s.p.17y412u0mab7-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"prj_77e3f9d7d6d14fd3acf7","siblings":["new"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"SwSyxPKEARxGxh8NzgMty"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"projects","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"prj_77e3f9d7d6d14fd3acf7","siblings":["new"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Q5xg5zkjKLdC7D-aZa5O7"}
